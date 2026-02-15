@@ -3,3 +3,4 @@ dict2 = {"city": "New York", "job": "Engineer"}
 dict1.update(dict2)
 print(dict1)
 
+#merged_dict=dict1|dict2 o alta solutie
